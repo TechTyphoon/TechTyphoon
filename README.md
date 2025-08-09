@@ -23,6 +23,7 @@ Welcome to my GitHub profile!
 - 🧠 **Construction Progress Detection using DL** – Predicts floors and construction % from site images
 - 🌿 **Plant Disease Detection** – Ran ML model with image inputs using Python and streamlit
 - 🧪 **Event Booking Platform** – Full-stack system inspired by Eventbrite with advanced features (auth, ical, ticketing, etc.)
+![GitHub Trophies](https://github-trophies.vercel.app/?username=TechTyphoon)
 
 ## 💞️ I’m looking to collaborate on:
 - Innovative AI projects using Google AI Studio or Gemini
